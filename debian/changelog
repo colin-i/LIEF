@@ -1,4 +1,4 @@
-lief (1-1+2) jammy; urgency=low
+lief (1-1+5) xenial; urgency=low
 
   * Initial release. Closes: #nnnn
     <nnnn is the bug number of your ITP>
