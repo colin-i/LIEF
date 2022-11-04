@@ -6,7 +6,6 @@
 
 pkname='lief'
 
-import pathlib
 ver='1.0.0'
 
 from setuptools import setup
