@@ -2,3 +2,5 @@ build/
 *.so
 lief.egg-info/
 dist/
+.pc/
+debian/patches/
